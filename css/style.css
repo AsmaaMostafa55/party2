@@ -1,0 +1,191 @@
+:root{
+    scroll-behavior: auto;
+}
+
+
+
+.b{
+    background-image: url(./concert-3387324_1280.jpg);
+/* background-repeat: no-repeat; */
+
+object-fit: cover;
+width: 100%;
+height: 100vh;
+
+
+
+}
+#home{
+    height: 100vh;
+}
+
+.x{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.ri{
+    background-color: rgb(0, 0, 0);
+    width: 20%;
+    height: 100vh;
+    position:fixed ;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    display: none;
+    /* display: none; */
+
+    
+}
+.d{
+    /* display: flex;
+    align-items: flex-start; */
+}
+.d a{
+    display: block;
+    padding: 50px;
+    color: aliceblue!important;
+    text-decoration: none;
+    font-size: 30px;
+    
+    
+}
+.d a:hover{
+    color: brown!important;
+}
+
+.ii{
+    transform: translateX(250px)
+    translateY(100px);
+    font-size: 30px;
+    
+   
+
+}
+.w{
+    /* background-color: blue; */
+    position: fixed;
+    /* position: relative; */
+    top: 50%;
+    left: 0%;
+    font-size: 40px;
+    cursor: pointer;
+}
+.ss{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 99999;
+}
+#Duaration{
+    margin-top: 150px;
+    height: 100vh;
+}
+
+.sing{
+    width: 800px;
+    height: 100px;
+    background-color: #E68285;
+    
+}
+.DD{
+    display: flex;
+    justify-content: center;
+
+}
+.DDD{
+    width: 800px;
+    height: 150px;
+    background-color: #CCCCCC;
+    display: none;
+    text-align: center;
+}
+.singe{
+    width: 800px;
+    height: 100px;
+    background-color: #E68285;
+
+}
+.DDDD{
+    width: 800px;
+    height: 150px;
+    background-color: #CCCCCC;
+    display: none;
+    text-align: center;
+
+}
+.singer{
+    width: 800px;
+    height: 100px;
+    background-color: #E68285;
+
+}
+.DDDDD{
+    width: 800px;
+    height: 150px;
+    background-color: #CCCCCC;
+    display: none;
+    text-align: center;
+
+}
+.singerr{
+    width: 800px;
+    height: 100px;
+    background-color: #E68285;
+    
+
+}
+.DDDDDD{
+    width: 800px;
+    height: 150px;
+    background-color: #CCCCCC;
+    display: none;
+    text-align: center;
+
+}
+.rect{
+    width: 280px;
+    height: 100px;
+    border: 5px white solid;
+
+}
+#time{
+    background-image: url(./istockphoto-1071406584-2048x2048.jpg);
+    height: 300px;
+    object-fit: cover;
+    
+}
+#ttime{
+    margin-bottom: 50px;
+}
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 450px;
+    background-color: #a33c3c;
+    padding: 30px 20px;
+    box-shadow: 0px 2px 20px -11px rgb(0 0 0);
+}
+#contact{
+    margin: 150px;
+}
+.square{
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(107, 102, 102);
+}
+.square:hover{
+    background-color:#D62E33;
+}
+#textarea{
+    height: 250px;
+}
+.bh{
+    display: inline;
+}
+#bb{
+    color: red;
+}
